@@ -5,3 +5,28 @@ html, body {
   color: #dddddd;
   font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
+
+main {
+  position: static;
+  margin: 2rem; }
+
+timeline {
+  background: #330000;
+  
+  position: static;
+  margin: 0; 
+  width: 15rem; }
+
+enemy {
+  background: #000000;
+  
+  position: static;
+  margin: 0;
+  width: 25rem; }
+
+job {
+  background: #000022;
+  
+  position: static;
+  margin: 0;
+  width: 20rem; }
